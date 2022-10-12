@@ -2,14 +2,14 @@
 # yarn lockfile v1
 
 
-d3-color@1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/d3-color/-/d3-color-1.4.1.tgz#c52002bf8846ada4424d55d97982fef26eb3bc8a"
-  integrity sha512-p2sTHSLCJI2QKunbGb7ocOh7DgTAn8IrLx21QRc/BSnodXM4sv6aLQlnfpvehFMLZEfBc6g9pH9SWQccFYfJ9Q==
+"d3-color@1 - 3":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/d3-color/-/d3-color-3.1.0.tgz#395b2833dfac71507f12ac2f7af23bf819de24e2"
+  integrity sha512-zg/chbXyeBtMQ1LbD/WSoW2DpC3I0mpmPdW+ynRTj/x2DAWYrIY7qeZIHidozwV24m4iavr15lNwIwLxRmOxhA==
 
-d3-interpolate@1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/d3-interpolate/-/d3-interpolate-1.4.0.tgz#526e79e2d80daa383f9e0c1c1c7dcc0f0583e987"
-  integrity sha512-V9znK0zc3jOPV4VD2zZn0sDhZU3WAE2bmlxdIwwQPPzPjvyLkd8B3JUVdS1IDUFDkWZ72c9qnv1GK2ZagTZ8EA==
+d3-interpolate@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/d3-interpolate/-/d3-interpolate-3.0.0.tgz#e824a09b2c9deb3e19c97e6ef1ec9b900115410b"
+  integrity sha512-dMVXB7Zpo5ZQbyjxXIhfxBQB9hcOjKaX804DHP7TpX8rMI7lu1HawG8jBrXIXB1DQAYAQRTDugZIlQTAKkSfLw==
   dependencies:
-    d3-color "1"
+    d3-color "1 - 3"

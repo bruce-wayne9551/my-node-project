@@ -2,6 +2,6 @@
     "name":"my-node-projec",
     "version": "1.0.0",
     "dependencies": {
-        "d3-interpolate":"1.4.0"
+        "d3-interpolate":"3.0.0"
     }
 }
