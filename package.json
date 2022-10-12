@@ -2,7 +2,6 @@
     "name":"my-node-projec",
     "version": "1.0.0",
     "dependencies": {
-        "d3-interpolate":"1.4.0",
-        "@servicestack/client":"1.1.21"
+        "prompt-choices":"4.0.5"
     }
 }
